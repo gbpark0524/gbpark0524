@@ -15,7 +15,7 @@ hello, im gb_Park.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
 </p>
 <hr>
-<p><img src="https://img.shields.io/badge/study-ing-informational?style=flat"/></p>
+<p><img src="https://img.shields.io/badge/Study-ing-informational?style=flat"/></p>
 <p>
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
